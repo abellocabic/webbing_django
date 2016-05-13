@@ -1,0 +1,846 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Book",
+				"BookManager"
+			],
+			[
+				"logi",
+				"loginErrors"
+			],
+			[
+				"ins",
+				"insErrors"
+			],
+			[
+				"car",
+				"cart_weight"
+			],
+			[
+				"hig",
+				"highest_ppk"
+			],
+			[
+				"ppk",
+				"ppk"
+			],
+			[
+				"talb",
+				"table_products"
+			],
+			[
+				"pri",
+				"price_kg"
+			],
+			[
+				"tabl",
+				"table_products"
+			],
+			[
+				"h",
+				"h_p_kg"
+			],
+			[
+				"key",
+				"key_h_p_kg"
+			],
+			[
+				"high",
+				"highest_value_perkg"
+			],
+			[
+				"price",
+				"price_kg"
+			],
+			[
+				"hi",
+				"highest_value_perkg"
+			],
+			[
+				"new",
+				"new_lst"
+			],
+			[
+				"sh",
+				"short_url"
+			],
+			[
+				"Http",
+				"HttpResponseRedirect"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"fl",
+				"flex-end"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"borderC",
+				"borderColor	Style CSS"
+			],
+			[
+				"pre",
+				"preventDefault()	Event"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"bord",
+				"border-right"
+			],
+			[
+				"fle",
+				"flex-start"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"sub",
+				"submit	.submit()"
+			],
+			[
+				"read",
+				"ready	$(document).ready"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"in",
+				"inline-flex"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"flex-",
+				"flex-wrap"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"ini",
+				"inline"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"charger",
+				"chargerClasse"
+			],
+			[
+				"spl_",
+				"spl_autoload_register"
+			],
+			[
+				"titu",
+				"titulaires"
+			],
+			[
+				"_",
+				"_numero_de_compte"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"surfa",
+				"surfaceTotal"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"wp",
+				"wp_enqueue_style"
+			],
+			[
+				"wp_en",
+				"wp_enqueue_script"
+			],
+			[
+				"wp_",
+				"wp_register_script"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"utilisa",
+				"utilisateur"
+			],
+			[
+				"user",
+				"userToken"
+			],
+			[
+				"utilisateur",
+				"utilisateur_id"
+			],
+			[
+				"di",
+				"displayFlag"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"column3",
+				"column3specs"
+			],
+			[
+				"colun",
+				"column3name"
+			],
+			[
+				"column",
+				"column2specs"
+			],
+			[
+				"colum",
+				"column1specs"
+			],
+			[
+				"colu",
+				"column1name"
+			],
+			[
+				"column1",
+				"column1specs"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"blur",
+				"blur	Event"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"func",
+				"function without name"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"auto",
+				"autofocus	Attr"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"els",
+				"else if()"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"Syntax",
+				"new SyntaxError(message)	Error"
+			],
+			[
+				"alert",
+				"alert(message)	Window"
+			],
+			[
+				"log",
+				"console.log()"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"util",
+				"utilisateur"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"session_de",
+				"session_destroy"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"visib",
+				"visibilite"
+			],
+			[
+				"code",
+				"code_postal"
+			],
+			[
+				"pr",
+				"prenom"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"lowe",
+				"lowerCaseText"
+			],
+			[
+				"pourcent",
+				"pourcentCapitaleEurope"
+			],
+			[
+				"str_s",
+				"str_split"
+			],
+			[
+				"count",
+				"count_chars"
+			],
+			[
+				"numero",
+				"numero2"
+			],
+			[
+				"str_",
+				"str_split"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"nom",
+				"nom"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"timeline",
+				"timeline02Diff"
+			],
+			[
+				"timeline03",
+				"timeline03End"
+			],
+			[
+				"timeline02",
+				"timeline02Begin"
+			],
+			[
+				"date",
+				"date_diff"
+			],
+			[
+				"time",
+				"timeline01depart"
+			],
+			[
+				"D",
+				"Datetime"
+			],
+			[
+				"semaine",
+				"semaineProchaine2"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"fade",
+				"fadeIn	.fadeIn()"
+			],
+			[
+				"function",
+				"function without name"
+			],
+			[
+				"padi",
+				"padding-right"
+			],
+			[
+				"fad",
+				"fadeIn	.fadeIn()"
+			],
+			[
+				"ine",
+				"inline-block"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ready",
+				"ready	$(document).ready"
+			],
+			[
+				"tran",
+				"translateY()"
+			],
+			[
+				"clear",
+				"clearInterval(intervalID)	Window"
+			],
+			[
+				"getEle",
+				"getElementById(id)	Element"
+			],
+			[
+				"add",
+				"addEventListener(type, listener)	EventTarget"
+			],
+			[
+				"prom",
+				"prompt(text, value)	Window"
+			],
+			[
+				"try",
+				"try catch"
+			],
+			[
+				"inner",
+				"innerHTML	Element"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/abellocabic/Sites/wf3/Exercices/exercice_4/Library/BookManager.php",
+		"/Users/abellocabic/Sites/wf3/Exercices/exercice_4/Library/Book.php",
+		"/Users/abellocabic/Sites/wf3/Exercices/exercice_4/Library/RandomBookDataGenerator.php",
+		"/Users/abellocabic/Sites/wf3/Exercices/exercice_4/insert_books.php",
+		"/Users/abellocabic/Sites/wf3/Exercices/exercice_3/inc/connect.php",
+		"/Users/abellocabic/Sites/wf3/Exercices/exercice_3/inc/functions.php",
+		"/Users/abellocabic/Sites/wf3/Exercices/exercice_3/assets/styles.css",
+		"/Users/abellocabic/Sites/wf3/Exercices/exercice_3/form-movies.php",
+		"/Users/abellocabic/Sites/wf3/Exercices/exercice_2/login_process.php",
+		"/Users/abellocabic/Sites/wf3/Exercices/exercice_2/inscription.php",
+		"/Users/abellocabic/Sites/wf3/Exercices/exercice_2/login.PHP",
+		"/Users/abellocabic/Sites/wf3/Exercices/exercice_2/readme.md",
+		"/Users/abellocabic/Sites/wf3/Exercices/exercice_2/connexion.php",
+		"/Users/abellocabic/Sites/wf3/Exercices/exercice_2/inscription_process.php",
+		"/Users/abellocabic/Desktop/Exercices/exercice_1/index.php",
+		"/Users/abellocabic/Desktop/Exercices/exercice_1/connect.php",
+		"/Users/abellocabic/Desktop/souscritoo.py",
+		"/Users/abellocabic/Desktop/test2.py",
+		"/Users/abellocabic/Desktop/test.py",
+		"/Users/abellocabic/Sites/wf3/murly/W/Manager/ConnectionManager.php",
+		"/Users/abellocabic/Sites/wf3/murly/app/templates/layout.php",
+		"/Users/abellocabic/Sites/wf3/murly/app/Controller/DefaultController.php",
+		"/Users/abellocabic/Sites/wf3/murly/app/templates/default/test.php",
+		"/Users/abellocabic/Sites/wf3/murly/app/config.php",
+		"/Users/abellocabic/Sites/wf3/murly/app/routes.php",
+		"/Users/abellocabic/Sites/wf3/murly/app/config.dist.php",
+		"/Users/abellocabic/Sites/blogW/app/README.md",
+		"/Users/abellocabic/Sites/Murly/murlyenv/src/templates/nav_display.html",
+		"/Users/abellocabic/Sites/Murly/murlyenv/src/templates/messages_display.html",
+		"/Users/abellocabic/Sites/Murly/murlyenv/src/templates/murlies_list.html",
+		"/Users/abellocabic/Sites/Murly/murlyenv/src/murlies/forms.py",
+		"/Users/abellocabic/Sites/Murly/murlyenv/src/templates/murlies_form.html",
+		"/Users/abellocabic/Sites/Murly/murlyenv/src/templates/murlies_detail.html",
+		"/Users/abellocabic/Sites/Murly/murlyenv/src/murlies/admin.py",
+		"/Users/abellocabic/Sites/Murly/murlyenv/src/murly/urls.py",
+		"/Users/abellocabic/Sites/Murly/murlyenv/src/murly/settings.py",
+		"/Users/abellocabic/Sites/Murly/murlyenv/src/templates/index.html",
+		"/Users/abellocabic/Sites/Murly/murlyenv/src/murlies/views.py",
+		"/Users/abellocabic/Sites/Murly/murlyenv/.gitignore",
+		"/Users/abellocabic/Sites/fourth/fourthenv/src/posts/admin.py",
+		"/Users/abellocabic/Sites/wf3/blogw/app/Manager/PostManager.php",
+		"/Users/abellocabic/Sites/wf3/blogw/app/routes.php",
+		"/Users/abellocabic/Sites/wf3/blogw/app/templates/default/home.php",
+		"/Users/abellocabic/Sites/wf3/blogw/app/templates/layout.php",
+		"/Users/abellocabic/Sites/wf3/blogw/app/templates/detail.php",
+		"/Users/abellocabic/Sites/wf3/blogw/app/Controller/DefaultController.php",
+		"/Users/abellocabic/Sites/wf3/blogw/app/config.php",
+		"/Users/abellocabic/Sites/wf3/blogw/app/config.dist.php",
+		"/Users/abellocabic/Sites/wf3/w/public/index.php",
+		"/Users/abellocabic/Sites/wf3/w/app/Controller/DefaultController.php",
+		"/Users/abellocabic/Sites/wf3/w/app/Controller/AdminController.php",
+		"/Users/abellocabic/Sites/wf3/w/W/Manager/Manager.php",
+		"/Users/abellocabic/Sites/wf3/w/app/routes.php",
+		"/Users/abellocabic/Sites/wf3/w/app/config.dist.php",
+		"/Users/abellocabic/Sites/wf3/w/vendor/autoload.php",
+		"/Users/abellocabic/Sites/wf3/55 - MVC/model.php",
+		"/Users/abellocabic/Desktop/angular.min.js",
+		"/Applications/MAMP/htdocs/34 - Ajax - Form/index.html",
+		"/Users/abellocabic/Sites/abcweb.consulting/css/main.css",
+		"/Users/abellocabic/Sites/abcweb.consulting/index.html",
+		"/Users/abellocabic/Sites/abcweb.consulting/index2.html",
+		"/Users/abellocabic/Sites/JJBank/index.php",
+		"/Users/abellocabic/Sites/JJBank/classes/Client.php",
+		"/Users/abellocabic/Sites/JJBank/classes/Compte.php",
+		"/Users/abellocabic/Sites/JJBank/templates/creation_compte.php",
+		"/Users/abellocabic/Sites/JJBank/controllers.php",
+		"/Users/abellocabic/Sites/JJBank/model.php",
+		"/Users/abellocabic/Sites/JJBank/templates/test.php",
+		"/Users/abellocabic/Sites/JJBank/classes/Connection.php",
+		"/Users/abellocabic/Sites/JJBank/classes/Banque.php",
+		"/Applications/MAMP/htdocs/JJBank/index.php",
+		"/Applications/MAMP/htdocs/JJBank/classes/Client.php",
+		"/Applications/MAMP/htdocs/JJBank/controllers.php",
+		"/Applications/MAMP/htdocs/52-Objets_2/classes/readme.txt",
+		"/Applications/MAMP/htdocs/52-Objets_2/banque.php",
+		"/Applications/MAMP/htdocs/52-Objets_2/client.php",
+		"/Applications/MAMP/htdocs/52-Objets_2/compte.php",
+		"/Applications/MAMP/htdocs/51 - Intro Objet/object_1.php",
+		"/Users/abellocabic/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/abellocabic/Coding/03 - Web Force 3/Front End - Adriana BELLO/50 - CSS Avancée/css/main.css",
+		"/Users/abellocabic/Coding/03 - Web Force 3/Front End - Adriana BELLO/50 - CSS Avancée/css/bootstrap.css",
+		"/Applications/MAMP/htdocs/34 - AJAX/js/main.js",
+		"/Applications/MAMP/htdocs/34 - Ajax - Form/process.php",
+		"/Applications/MAMP/htdocs/34 - Ajax - Form/js/main.js",
+		"/Applications/MAMP/htdocs/47 - Ajax Continuation/css/main.css",
+		"/Applications/MAMP/htdocs/47 - Ajax Continuation/index.html",
+		"/Applications/MAMP/htdocs/34 - AJAX form/js/main.js",
+		"/Applications/MAMP/htdocs/34 - AJAX form/process.php",
+		"/Applications/MAMP/htdocs/34 - AJAX form/index.html",
+		"/Applications/MAMP/htdocs/34 - AJAX form/index2.html",
+		"/Applications/MAMP/htdocs/34 - AJAX/index.html",
+		"/Applications/MAMP/htdocs/43 - WordPress/wp-content/themes/webforce3/footer.php",
+		"/Applications/MAMP/htdocs/43 - WordPress/wp-content/themes/webforce3/header.php",
+		"/Applications/MAMP/htdocs/43 - WordPress/wp-content/themes/webforce3/404.php",
+		"/Applications/MAMP/htdocs/43 - WordPress/wp-content/themes/webforce3/page.php",
+		"/Applications/MAMP/htdocs/43 - WordPress/wp-content/themes/webforce3/index.php",
+		"/Applications/MAMP/htdocs/43 - WordPress/wp-content/themes/webforce3/admin/css/style.css",
+		"/Applications/MAMP/htdocs/43 - WordPress/wp-content/themes/webforce3/functions.php",
+		"/Applications/MAMP/htdocs/43 - WordPress/wp-content/themes/webforce3/style.css",
+		"/Applications/MAMP/htdocs/WebforceWP-master",
+		"/Applications/MAMP/htdocs/43 - WordPress/wp-content/themes/webforce3/js/script.js",
+		"/Applications/MAMP/htdocs/43 - WordPress/wp-config.php",
+		"/Applications/MAMP/htdocs/43 - WordPress/wp-content/themes/webforce3/vendor/salaros/wp-bootstrap-navwalker/wp_bootstrap_navwalker.php",
+		"/Applications/MAMP/htdocs/43 - WordPress/wp-content/themes/webforce3/single.php",
+		"/Applications/MAMP/htdocs/43 - WordPress/wp-content/themes/spacious-child/functions.php",
+		"/Applications/MAMP/htdocs/43 - WordPress/wp-content/themes/spacious-child/style.css",
+		"/Applications/MAMP/htdocs/43 - WordPress/wp-content/themes/spacious/functions.php",
+		"/Applications/MAMP/htdocs/39 - A&A/merci.php",
+		"/Applications/MAMP/htdocs/39 - A&A/mailerEx.php",
+		"/Applications/MAMP/htdocs/39 - A&A/readme.txt",
+		"/Applications/MAMP/htdocs/39 - PHP Admin Exo/css/general.css",
+		"/Applications/MAMP/htdocs/39 - PHP Admin Exo/sources/membres.fix",
+		"/Applications/MAMP/htdocs/39 - PHP Admin Exo/correction.php",
+		"/Applications/MAMP/htdocs/39 - PHP Admin Exo/index.php",
+		"/Users/abellocabic/Coding/03 - Web Force 3/Front End - Adriana BELLO/31 - 160325 - Exercice Integration/js/main.js",
+		"/Users/abellocabic/Coding/03 - Web Force 3/Front End - Adriana BELLO/31 - 160325 - Exercice Integration/css/main.css",
+		"/Users/abellocabic/Coding/03 - Web Force 3/Front End - Adriana BELLO/31 - 160325 - Exercice Integration/index.php",
+		"/Users/abellocabic/Coding/03 - Web Force 3/Front End - Adriana BELLO/31 - 160325 - Exercice Integration/merci.php",
+		"/Users/abellocabic/Coding/03 - Web Force 3/Front End - Adriana BELLO/31 - 160325 - Exercice Integration/db/connexion.php",
+		"/Applications/MAMP/htdocs/bootblog/creer.php",
+		"/Users/abellocabic/Coding/03 - Web Force 3/Front End - Adriana BELLO/19 - 160302 - Revision jQuery/index.html",
+		"/Users/abellocabic/Coding/03 - Web Force 3/Front End - Adriana BELLO/22 - 160323 - Revision JS Continue/js/main.js",
+		"/Users/abellocabic/Coding/03 - Web Force 3/Front End - Adriana BELLO/22 - 160323 - Revision JS Continue/index.html",
+		"/Users/abellocabic/Coding/03 - Web Force 3/Front End - Adriana BELLO/30 - 160324 - Responsive Design/index.html",
+		"/Users/abellocabic/Coding/03 - Web Force 3/Front End - Adriana BELLO/30 - 160324 - Responsive Design/css/rwd.css",
+		"/Users/abellocabic/Coding/03 - Web Force 3/Front End - Adriana BELLO/30 - 160324 - Responsive Design/css/main.css",
+		"/Users/abellocabic/Coding/03 - Web Force 3/Front End - Adriana BELLO/30 - 160324 - Responsive Design/html/rwd.html",
+		"/Users/abellocabic/Coding/03 - Web Force 3/Front End - Adriana BELLO/23 - 160324 - RWD/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<?php",
+			"$insErrors[]\n",
+			" \n",
+			"cr",
+			"	{",
+			".jumbotron h1, .jumbotron .h1 {\n	    font-size: 80px;\n	}\n\n	.navbar-nav {\n	    float: right;\n	    margin: 0;\n	}",
+			"mainbtnFormSubmit",
+			"<?",
+			"utilisateurs",
+			"navigateur2",
+			"name",
+			"#name",
+			"\n}",
+			"outline",
+			"image/",
+			"images/",
+			"sizing",
+			"box"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$_SESSION['errors'][]",
+			"img/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "webbing_django.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"outlook.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
