@@ -14,9 +14,19 @@ Including another URLconf
     2. Import the include() function: from django.conf.urls import url, include
     3. Add a URL to urlpatterns:  url(r'^blog/', include(blog_urls))
 """
-from django.conf.urls import url
+from django.conf import settings
+from django.conf.urls.static import static
+
+
+from django.conf.urls import url, include
 from django.contrib import admin
+from forum.views import views
 
 urlpatterns = [
+    url(r'^/', views.home_show),
     url(r'^admin/', admin.site.urls),
+    url(r'^forum/', include('forum.urls', namespace="forum")),
 ]
+
+if settings.DEBUG:
+    urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
