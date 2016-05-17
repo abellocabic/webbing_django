@@ -2,17 +2,35 @@
 
 	{% block content %}
 
-	<h1>{{ title }}</h1>
 
+	<div class="container">
+		<div class="post_holder">
+			<div class="col-md-9 top-bottom-buffer white">
+					<h1>{{ title }}</h1>
+			</div>
+		</div>
+	</div>
 
-	{% if object_list %}
-		{% for post in object_list %}
-			<ul>
-				<li>{{ post.title }}</li>
-				<li>{{ post.content }}</li>
-			</ul>
-		{% endfor %}
-	{% endif%}	
+	<div class="container">
+		<div class="post_holder">
+		
+		{% if object_list %}
+			{% for post in object_list %}
+				<div class="col-md-9 top-bottom-buffer white t-b-padding">
+					<h3><a href="detail/{{ post.id }}/"> {{ post.title }}</a></h3>
+
+					<p>{{ post.content }}</p>
+
+					<p>{{ post.category}}</p>
+
+					<a href="detail/{{ post.id }}/" class="btn btn-info" role="button">Participer</a>
+
+				</div>
+			{% endfor %}
+		{% endif%}
+
+		</div>
+	</div>
 
 
 	{% endblock content %}

@@ -20,10 +20,10 @@ from django.conf.urls.static import static
 
 from django.conf.urls import url, include
 from django.contrib import admin
-from forum.views import views
+from forum import views as forum_views
 
 urlpatterns = [
-    url(r'^/', views.home_show),
+    url(r'^home/', forum_views.home_show),
     url(r'^admin/', admin.site.urls),
     url(r'^forum/', include('forum.urls', namespace="forum")),
 ]

@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"padd",
+				"padding"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
 				"Book",
 				"BookManager"
 			],
@@ -76,14 +88,6 @@
 				"foreach	foreach …"
 			],
 			[
-				"padd",
-				"padding-bottom"
-			],
-			[
-				"margin",
-				"margin-bottom"
-			],
-			[
 				"mar",
 				"margin-left"
 			],
@@ -134,10 +138,6 @@
 			[
 				"bord",
 				"border-right"
-			],
-			[
-				"fle",
-				"flex-start"
 			],
 			[
 				"al",
@@ -520,84 +520,18 @@
 	"buffers":
 	[
 		{
-<<<<<<< HEAD
-			"file": "src/forum/models.py",
+			"file": "src/templates/forum_detail.html",
 			"settings":
 			{
-				"buffer_size": 377,
+				"buffer_size": 670,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "src/webbing/settings.py",
+			"file": "src/forum/forms.py",
 			"settings":
 			{
-				"buffer_size": 3597,
-=======
-			"file": "src/db.sqlite3",
-			"settings":
-			{
-				"buffer_size": 97280,
->>>>>>> 2b6e32dec6fbe7b3bf23f9e9af59f24f45399255
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/templates/base.html",
-			"settings":
-			{
-<<<<<<< HEAD
-				"buffer_size": 6380,
-=======
-				"buffer_size": 4032,
->>>>>>> 2b6e32dec6fbe7b3bf23f9e9af59f24f45399255
-				"line_ending": "Unix"
-			}
-		},
-		{
-<<<<<<< HEAD
-			"file": "src/static/css/business-casual.css",
-			"settings":
-			{
-				"buffer_size": 3257,
-=======
-			"file": "src/templates/home.html",
-			"settings":
-			{
-				"buffer_size": 2409,
->>>>>>> 2b6e32dec6fbe7b3bf23f9e9af59f24f45399255
-				"line_ending": "Unix"
-			}
-		},
-		{
-<<<<<<< HEAD
-			"file": "src/static/css/base.css",
-			"settings":
-			{
-				"buffer_size": 0,
-=======
-			"file": "src/webbing/urls.py",
-			"settings":
-			{
-				"buffer_size": 1135,
->>>>>>> 2b6e32dec6fbe7b3bf23f9e9af59f24f45399255
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/templates/forum_list.html",
-			"settings":
-			{
-				"buffer_size": 260,
-				"line_ending": "Unix"
-			}
-		},
-		{
-<<<<<<< HEAD
-			"file": "src/forum/admin.py",
-			"settings":
-			{
-				"buffer_size": 332,
+				"buffer_size": 177,
 				"line_ending": "Unix"
 			}
 		},
@@ -605,7 +539,15 @@
 			"file": "src/forum/views.py",
 			"settings":
 			{
-				"buffer_size": 406,
+				"buffer_size": 904,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/forum/models.py",
+			"settings":
+			{
+				"buffer_size": 1160,
 				"line_ending": "Unix"
 			}
 		},
@@ -613,21 +555,7 @@
 			"file": "src/forum/urls.py",
 			"settings":
 			{
-				"buffer_size": 184,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/webbing/urls.py",
-			"settings":
-			{
-				"buffer_size": 1072,
-=======
-			"file": "src/forum/views.py",
-			"settings":
-			{
-				"buffer_size": 527,
->>>>>>> 2b6e32dec6fbe7b3bf23f9e9af59f24f45399255
+				"buffer_size": 260,
 				"line_ending": "Unix"
 			}
 		}
@@ -681,25 +609,28 @@
 	},
 	"expanded_folders":
 	[
-<<<<<<< HEAD
 		"/Users/abellocabic/Sites/webbing_django/webbingenv",
 		"/Users/abellocabic/Sites/webbing_django/webbingenv/src",
+		"/Users/abellocabic/Sites/webbing_django/webbingenv/src/forum",
 		"/Users/abellocabic/Sites/webbing_django/webbingenv/src/static",
 		"/Users/abellocabic/Sites/webbing_django/webbingenv/src/static/css",
 		"/Users/abellocabic/Sites/webbing_django/webbingenv/src/static/img",
+		"/Users/abellocabic/Sites/webbing_django/webbingenv/src/static/js",
 		"/Users/abellocabic/Sites/webbing_django/webbingenv/src/templates",
 		"/Users/abellocabic/Sites/webbing_django/webbingenv/src/webbing"
-=======
-		"/Users/abellorussian/Sites/webbing/webbingenv/webbing_django",
-		"/Users/abellorussian/Sites/webbing/webbingenv/webbing_django/src",
-		"/Users/abellorussian/Sites/webbing/webbingenv/webbing_django/src/forum",
-		"/Users/abellorussian/Sites/webbing/webbingenv/webbing_django/src/templates",
-		"/Users/abellorussian/Sites/webbing/webbingenv/webbing_django/src/webbing"
->>>>>>> 2b6e32dec6fbe7b3bf23f9e9af59f24f45399255
 	],
 	"file_history":
 	[
+		"/Users/abellocabic/Sites/webbing_django/webbingenv/src/static/js/main.js",
+		"/Users/abellocabic/Sites/webbing_django/webbingenv/src/static/css/base.css",
+		"/Users/abellocabic/Sites/webbing_django/webbingenv/src/forum/admin.py",
+		"/Users/abellocabic/Sites/webbing_django/webbingenv/src/webbing/urls.py",
 		"/Users/abellocabic/Sites/webbing_django/webbingenv/.gitignore",
+		"/Users/abellocabic/Sites/webbing_django/webbingenv/src/templates/home.html",
+		"/Users/abellocabic/Sites/webbing_django/webbingenv/src/templates/forum_list.html",
+		"/Users/abellocabic/Sites/webbing_django/webbingenv/src/webbing/settings.py",
+		"/Users/abellocabic/Sites/webbing_django/webbingenv/src/templates/base.html",
+		"/Users/abellocabic/Sites/webbing_django/webbingenv/src/static/css/business-casual.css",
 		"/Users/abellocabic/Sites/wf3/Exercices/exercice_4/Library/BookManager.php",
 		"/Users/abellocabic/Sites/wf3/Exercices/exercice_4/Library/Book.php",
 		"/Users/abellocabic/Sites/wf3/Exercices/exercice_4/Library/RandomBookDataGenerator.php",
@@ -817,20 +748,11 @@
 		"/Users/abellocabic/Coding/03 - Web Force 3/Front End - Adriana BELLO/31 - 160325 - Exercice Integration/js/main.js",
 		"/Users/abellocabic/Coding/03 - Web Force 3/Front End - Adriana BELLO/31 - 160325 - Exercice Integration/css/main.css",
 		"/Users/abellocabic/Coding/03 - Web Force 3/Front End - Adriana BELLO/31 - 160325 - Exercice Integration/index.php",
-		"/Users/abellocabic/Coding/03 - Web Force 3/Front End - Adriana BELLO/31 - 160325 - Exercice Integration/merci.php",
-		"/Users/abellocabic/Coding/03 - Web Force 3/Front End - Adriana BELLO/31 - 160325 - Exercice Integration/db/connexion.php",
-		"/Applications/MAMP/htdocs/bootblog/creer.php",
-		"/Users/abellocabic/Coding/03 - Web Force 3/Front End - Adriana BELLO/19 - 160302 - Revision jQuery/index.html",
-		"/Users/abellocabic/Coding/03 - Web Force 3/Front End - Adriana BELLO/22 - 160323 - Revision JS Continue/js/main.js",
-		"/Users/abellocabic/Coding/03 - Web Force 3/Front End - Adriana BELLO/22 - 160323 - Revision JS Continue/index.html",
-		"/Users/abellocabic/Coding/03 - Web Force 3/Front End - Adriana BELLO/30 - 160324 - Responsive Design/index.html",
-		"/Users/abellocabic/Coding/03 - Web Force 3/Front End - Adriana BELLO/30 - 160324 - Responsive Design/css/rwd.css",
-		"/Users/abellocabic/Coding/03 - Web Force 3/Front End - Adriana BELLO/30 - 160324 - Responsive Design/css/main.css",
-		"/Users/abellocabic/Coding/03 - Web Force 3/Front End - Adriana BELLO/30 - 160324 - Responsive Design/html/rwd.html"
+		"/Users/abellocabic/Coding/03 - Web Force 3/Front End - Adriana BELLO/31 - 160325 - Exercice Integration/merci.php"
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -845,6 +767,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Mari",
 			"<?php",
 			"$insErrors[]\n",
 			" \n",
@@ -882,233 +805,57 @@
 	"groups":
 	[
 		{
-<<<<<<< HEAD
-			"selected": 9,
-=======
 			"selected": 3,
->>>>>>> 2b6e32dec6fbe7b3bf23f9e9af59f24f45399255
 			"sheets":
 			[
 				{
 					"buffer": 0,
-<<<<<<< HEAD
-					"file": "src/forum/models.py",
+					"file": "src/templates/forum_detail.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 377,
-=======
-					"file": "src/db.sqlite3",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 97280,
->>>>>>> 2b6e32dec6fbe7b3bf23f9e9af59f24f45399255
+						"buffer_size": 670,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-<<<<<<< HEAD
-								376,
-								376
-=======
-								0,
-								0
->>>>>>> 2b6e32dec6fbe7b3bf23f9e9af59f24f45399255
+								527,
+								527
 							]
 						],
 						"settings":
 						{
-<<<<<<< HEAD
-							"syntax": "Packages/Python/Python.sublime-syntax"
-=======
-							"syntax": "Packages/Text/Plain text.tmLanguage"
->>>>>>> 2b6e32dec6fbe7b3bf23f9e9af59f24f45399255
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-<<<<<<< HEAD
-					"file": "src/webbing/settings.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3597,
-=======
-					"file": "src/templates/base.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4032,
->>>>>>> 2b6e32dec6fbe7b3bf23f9e9af59f24f45399255
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-<<<<<<< HEAD
-								3597,
-								3597
-=======
-								1824,
-								1824
->>>>>>> 2b6e32dec6fbe7b3bf23f9e9af59f24f45399255
-							]
-						],
-						"settings":
-						{
-<<<<<<< HEAD
-							"syntax": "Packages/Python/Python.sublime-syntax",
-=======
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
->>>>>>> 2b6e32dec6fbe7b3bf23f9e9af59f24f45399255
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-<<<<<<< HEAD
-						"translation.y": 1880.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-=======
-						"translation.y": 1434.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
->>>>>>> 2b6e32dec6fbe7b3bf23f9e9af59f24f45399255
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-<<<<<<< HEAD
-					"file": "src/templates/base.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6380,
-=======
-					"file": "src/templates/home.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2409,
->>>>>>> 2b6e32dec6fbe7b3bf23f9e9af59f24f45399255
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-<<<<<<< HEAD
-								648,
-								654
-=======
-								2245,
-								2245
->>>>>>> 2b6e32dec6fbe7b3bf23f9e9af59f24f45399255
-							]
-						],
-						"settings":
-						{
-<<<<<<< HEAD
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
-=======
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 143.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
->>>>>>> 2b6e32dec6fbe7b3bf23f9e9af59f24f45399255
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-<<<<<<< HEAD
-					"file": "src/static/css/business-casual.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3257,
-=======
-					"file": "src/webbing/urls.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1135,
->>>>>>> 2b6e32dec6fbe7b3bf23f9e9af59f24f45399255
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-<<<<<<< HEAD
-								444,
-								444
-=======
-								926,
-								926
->>>>>>> 2b6e32dec6fbe7b3bf23f9e9af59f24f45399255
-							]
-						],
-						"settings":
-						{
-<<<<<<< HEAD
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-=======
-							"syntax": "Packages/Python/Python.sublime-syntax",
->>>>>>> 2b6e32dec6fbe7b3bf23f9e9af59f24f45399255
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-<<<<<<< HEAD
 					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "src/static/css/base.css",
+					"buffer": 1,
+					"file": "src/forum/forms.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 177,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								34,
+								34
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
+							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1118,21 +865,70 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-=======
+					"buffer": 2,
+					"file": "src/forum/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 904,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								523,
+								523
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/forum/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								465,
+								465
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 0,
 					"type": "text"
 				}
 			]
 		},
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 4,
->>>>>>> 2b6e32dec6fbe7b3bf23f9e9af59f24f45399255
-					"file": "src/templates/forum_list.html",
+					"file": "src/forum/urls.py",
 					"semi_transient": false,
 					"settings":
 					{
@@ -1143,47 +939,8 @@
 						"selection":
 						[
 							[
-<<<<<<< HEAD
-								71,
-								71
-=======
-								260,
-								260
->>>>>>> 2b6e32dec6fbe7b3bf23f9e9af59f24f45399255
-							]
-						],
-						"settings":
-						{
-<<<<<<< HEAD
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-=======
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
->>>>>>> 2b6e32dec6fbe7b3bf23f9e9af59f24f45399255
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-<<<<<<< HEAD
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "src/forum/admin.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 332,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								138,
-								138
+								139,
+								139
 							]
 						],
 						"settings":
@@ -1194,111 +951,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-=======
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
->>>>>>> 2b6e32dec6fbe7b3bf23f9e9af59f24f45399255
-					"file": "src/forum/views.py",
-					"semi_transient": false,
-					"settings":
-					{
-<<<<<<< HEAD
-						"buffer_size": 406,
-=======
-						"buffer_size": 527,
->>>>>>> 2b6e32dec6fbe7b3bf23f9e9af59f24f45399255
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-<<<<<<< HEAD
-								287,
-								287
-=======
-								524,
-								524
->>>>>>> 2b6e32dec6fbe7b3bf23f9e9af59f24f45399255
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-<<<<<<< HEAD
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "src/forum/urls.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 184,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								184,
-								184
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "src/webbing/urls.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1072,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1071,
-								1071
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-=======
-					"stack_index": 1,
->>>>>>> 2b6e32dec6fbe7b3bf23f9e9af59f24f45399255
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
@@ -1332,7 +985,7 @@
 		"cols":
 		[
 			0.0,
-			0.5,
+			0.567408188391,
 			1.0
 		],
 		"rows":
@@ -1388,15 +1041,11 @@
 	"settings":
 	{
 	},
-	"show_minimap": true,
+	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-<<<<<<< HEAD
-	"side_bar_width": 288.0,
-=======
-	"side_bar_width": 224.0,
->>>>>>> 2b6e32dec6fbe7b3bf23f9e9af59f24f45399255
+	"side_bar_width": 168.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="container top-bottom-buffer white t-b-padding">
+	<div class="post_holder">
+		
+		<h1>{{ instance.title }}</h1>
+
+		<p>{{ instance.content  }}</p>
+
+		<p>{{ instance.timestamp}} </p>
+
+		<p>{{ instance.category}} </p>
+
+		<p>{{ instance.author }} </p>
+
+		<a href="create/ {{ post.id }}/" class="btn btn-info" role="button">Répondre</a>
+
+	</div>
+</div>
+
+<div class="container top-bottom-buffer white t-b-padding">
+	<div class="post_holder">
+		
+		<form action="" method="POST"> {% csrf_token %}
+			
+			{{ form.as_p }}
+			<input type="submit" value="Répondre">
+
+		</form>
+
+	</div>
+
+
+</div>
+
+
+
+
+
+
+
+{% endblock content %}
