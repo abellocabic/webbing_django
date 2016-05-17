@@ -41,3 +41,6 @@ Scripts
 # MacOSX
 .DS_Store
 
+#Sublime
+.sublime-project
+

@@ -14,3 +14,9 @@ def forum_list(request):
 	}
 	return render(request, "forum_list.html", context)
 
+def home_show(request) :
+	context = {
+		'title' : 'Marcus et Ginette',
+	}
+	return render(request, 'home.html', context)
+
